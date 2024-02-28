@@ -3,3 +3,24 @@
     text-decoration: underline;
     font-size: calc(1.5rem + 1.5vw);
 }
+
+.btn-suscribete{
+    color:white;
+    border: 1px solid white;
+}
+
+.btn-suscribete:hover {
+    border: 1px solid white;
+    background-color: white;
+    color:black;
+}
+
+
+#suscribete {
+    padding: 150px 0px;
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: blueviolet;
+    --bs-tooltip-color: white;
+  }
